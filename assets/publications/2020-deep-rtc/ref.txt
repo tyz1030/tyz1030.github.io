@@ -1,6 +1,0 @@
-@inproceedings{Wu20DeepRTC,
-  title={Solving Long-tailed Recognition with Deep Realistic Taxonomic Classifier},
-  author={Tz-Ying Wu and Pedro Morgado and Pei Wang and Chih-Hui Ho and Nuno Vasconcelos},
-  booktitle={European Conference on Computer Vision (ECCV)},
-  year={2020}
-}

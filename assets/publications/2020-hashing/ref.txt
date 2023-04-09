@@ -1,9 +1,0 @@
-@article{MorgadoProxyHashing,
-  author = {Morgado, Pedro and Li, Yunsheng and Costa Pereira, Jose and Saberian, Mohammad and Vasconcelos, Nuno},
-  journal = {International Journal of Computer Vision},
-  title = {Deep Hashing with Hash-Consistent Large Margin Proxy Embeddings},
-  year = {2020},
-  doi = {10.1007/s11263-020-01362-7},
-  isbn = {1573-1405},
-  url = {https://doi.org/10.1007/s11263-020-01362-7},
-}

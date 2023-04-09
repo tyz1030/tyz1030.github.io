@@ -1,7 +1,0 @@
-@InProceedings{Ho_2019_CVPR,
-  author = {Ho, Chih-Hui and Morgado, Pedro and Persekian, Amir and Vasconcelos, Nuno},
-  title = {PIEs: Pose Invariant Embeddings},
-  booktitle = {Computer Vision and Pattern Recognition (CVPR), IEEE/CVF Conf. on },
-  month = {June},
-  year = {2019}
-}

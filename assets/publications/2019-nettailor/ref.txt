@@ -1,7 +1,0 @@
-@inproceedings{morgado2019nettailor,
-  title={NetTailor: Tuning the Architecture, Not Just the Weights},
-  author={Morgado, Pedro and Vasconcelos, Nuno},
-  booktitle={Computer Vision and Pattern Recognition (CVPR), IEEE/CVF Conf. on},
-  pages={3044--3054},
-  year={2019}
-}

@@ -1,9 +1,0 @@
-@article{cabral2015predicting,
-  title={Predicting conversion from MCI to AD with FDG-PET brain images at different prodromal stages},
-  author={Cabral, Carlos and Morgado, Pedro M and Costa, Durval Campos and Silveira, Margarida and Alzheimer׳ s Disease Neuroimaging Initiative and others},
-  journal={Computers in biology and medicine},
-  volume={58},
-  pages={101--109},
-  year={2015},
-  publisher={Elsevier}
-}

@@ -1,6 +1,0 @@
-@inproceedings{scmls20_16,
-  title={NetTailor: Tuning the architecture, not just the weights},
-  author={Pedro Morgado and Nuno Vasconcelos},
-  booktitle={Southern California Machine Learning Symposium (SCMLS)},
-  year={2020}
-}

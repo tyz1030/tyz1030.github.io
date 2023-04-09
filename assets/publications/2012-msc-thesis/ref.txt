@@ -1,6 +1,0 @@
-@masterthesis{morgado_mscthesis,
-  author       = {Pedro Morgado},
-  title        = {Automated Diagnosis of Alzheimer's Disease using PET Images: A study of alternative procedures for feature extraction and selection},
-  school       = {Instituto Superior Tecnico, Lisboa, Portugal},
-  year         = 2012
-}

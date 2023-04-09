@@ -1,9 +1,0 @@
-@article{morgado2015minimal,
-  title={Minimal neighborhood redundancy maximal relevance: Application to the diagnosis of Alzheimer׳ s disease},
-  author={Morgado, Pedro M and Silveira, Margarida and Alzheimer׳ s Disease Neuroimaging Initiative and others},
-  journal={Neurocomputing},
-  volume={155},
-  pages={295--308},
-  year={2015},
-  publisher={Elsevier}
-}

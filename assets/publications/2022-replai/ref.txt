@@ -1,6 +1,0 @@
-@InProceedings{mittal2022_replai,
-  title={Learning Visual Representation from Audible Interactions},
-  author={Himangi Mittal, Pedro Morgado, Unnat Jain, Abhinav Gupta},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
-  year={2022}
-}

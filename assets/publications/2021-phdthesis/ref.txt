@@ -1,6 +1,0 @@
-@phdthesis{morgado_phdthesis,
-  author       = {Pedro Morgado},
-  title        = {Learning to see and hear without human supervision},
-  school       = {University of California San Diego},
-  year         = 2021
-}

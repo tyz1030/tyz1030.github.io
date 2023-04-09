@@ -183,7 +183,7 @@ img::-moz-selection {
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
-  background-color: #C41230;
+  background-color: rgb(0, 70, 140);
   color: #fff;
 }
 

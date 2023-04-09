@@ -1,7 +1,9 @@
 ---
 id:             2022-croscarep
 title:          "Learning Cross-Scale Visual Representations for Real-Time Image Geo-Localization"
-authors:        [Me, MJR]
+authors:
+    - Me
+    - MJR
 venue:          RA-L + ICRA, 2022.
 year:           "2022-05"
 thumbnail:      assets/publications/2022-croscarep/croscarep.png

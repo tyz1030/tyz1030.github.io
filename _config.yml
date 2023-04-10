@@ -28,7 +28,9 @@ github_username:  tyz1030
 collections:
   publications:
     output: true
-
+  moreresearch:
+    output: true
+    
 # Build settings
 #theme: minima
 #plugins:

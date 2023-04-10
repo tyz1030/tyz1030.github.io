@@ -5,7 +5,7 @@ authors:
     - Me
     - Eduardo
     - MJR
-venue:          
+# venue:          
 year:           "2019-05"
 thumbnail:      assets/moreresearch/lidarcal.png
 links:

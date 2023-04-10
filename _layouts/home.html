@@ -199,7 +199,7 @@
       <div class="d-none d-md-block col-md-4 d-lg-block col-lg-4 pub-thumbnail" style="min-height: 100px">
         <a href="{{ pub.url }}">
         {% if pub.thumb_width %}
-        <img class="img-fluid px-3 py-2 center-thumb" width="{{ pub.thumb_width }}%" style="margin:0 auto;" src="{{ pub.thumbnail }}">
+        <img class="img-fluid px-3 py-2 center-thumb" width="{{ pub.thumb_width }}%" style="margin:0 auto; max-width: 100%;" src="{{ pub.thumbnail }}">
         {% else %}
         <img class="img-fluid px-3 py-2 center-thumb" src="{{ pub.thumbnail }}">
         {% endif %}

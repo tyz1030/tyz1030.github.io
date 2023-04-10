@@ -197,7 +197,7 @@
     {% for pub in sorted %}
     <div class="row each_pub">
       <!-- <div class="d-none d-md-block col-md-4 d-lg-block col-lg-4 pub-thumbnail" style="min-height: 100px"> -->
-      <div class="d-none d-none col-md-4 col-lg-4 pub-thumbnail" style="min-height: 100px">
+      <div class="d-none d-md-none d-lg-none col-md-4 col-lg-4 pub-thumbnail" style="min-height: 100px">
           <a href="{{ pub.url }}">
         {% if pub.thumb_width %}
         <img class="img-fluid px-0.5 py-0.5 center-thumb" width="{{ pub.thumb_width }}%" style="margin:0 auto; max-width: 100%;" src="{{ pub.thumbnail }}">

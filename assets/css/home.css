@@ -8,7 +8,8 @@ body {
   font-family: 'Roboto';
   padding-top: 3.5rem;
   color: #393a3b;
-  background-color: #ffffff
+  background-color: #ffffff;
+  max-width: 100%;
 }
 
 section {

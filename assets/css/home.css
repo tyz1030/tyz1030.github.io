@@ -209,7 +209,7 @@ img::-moz-selection {
 .pub-thumbnail {
   /* border: 1px solid #ddd; */
   border: none;
-  border-radius: 6px;
+  /* border-radius: 6px; */
 }
 
 #mainNav .navbar-brand {

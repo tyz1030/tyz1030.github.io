@@ -1,9 +1,13 @@
 name: Tianyi Zhang
 position: Ph.D. Candidate
 institution:
-  - [{{Carnegie Mellon University}}](https://www.cmu.edu/)
-  - Robotics Institute
-  - School of Computer Science
+  - name: Carnegie Mellon University
+    url: https://www.cmu.edu/
+  - name: Robotics Institute
+    url: https://www.cmu.edu/
+  - name: School of Computer Science
+    url: https://www.cmu.edu/
+
 links:
   Email:    "tianyiz4@andrew.cmu.edu"
   CV:       "assets/files/cv.pdf"

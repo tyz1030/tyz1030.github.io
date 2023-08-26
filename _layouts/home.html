@@ -95,7 +95,7 @@
         I'm a Ph.D. student in <a href="https://www.ri.cmu.edu/">Robotics</a> at <a href="https://www.cmu.edu/">CMU</a> advised by Prof. <a href="https://www.ri.cmu.edu/ri-faculty/matt-johnson-roberson/">Matthew Johnson-Roberson</a>.
         I'm broadly interested in optical perception, 3D vision, graphics, localization, mapping, and their applications on field robots.
         I do electronic design and embedded system development for robots as well.<br/><br/>
-        I'm looking for all kinds of research opportunities and collaborations.
+        <!-- I'm looking for all kinds of research opportunities and collaborations. -->
       </p>
       <!-- <p class="lead mb-2">
         Previously, I was a postdoc researcher at Carnegie Mellon University, working with <a href="http://www.cs.cmu.edu/~abhinavg/" target="_blank">Abhinav Gupta</a>.
@@ -196,7 +196,7 @@
     {% for pub in sorted %}
     <div class="row each_pub" style="margin-bottom: 20px;">
       <!-- <div class="d-none d-md-block col-md-4 d-lg-block col-lg-4 pub-thumbnail" style="min-height: 100px"> -->
-        <div class="d-none d-md-block col-md-5 d-lg-block col-lg-5" style="min-height: 100px">
+      <div class="d-none d-md-block col-md-5 d-lg-block col-lg-5" style="min-height: 100px">
           <a href="{{ pub.url }}">
         {% if pub.thumb_width %}
         <img class="img-fluid px-0.5 py-0.5 center-thumb" width="{{ pub.thumb_width }}%" style="margin:0 auto; max-width: 100%; border: none" src="{{ pub.thumbnail }}">
@@ -422,6 +422,21 @@
   </div>
 </section>
 
+<section class="container">
+  <hr>
+  <h1 class="col-12 px-0 mb-0">Field Work</h1>
+<div style="display: flex; align-items: center;margin-bottom: 9px;">
+  <img src="assets/fieldwork/fl2.png" alt="Image" style="width: 200px; margin-right: 10px;" >
+  <img src="assets/fieldwork/fl1.png" alt="Image" style="width: 200px; margin-right: 10px;" >
+  <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
+	<span style="font-size: 14px;">FL</span><br/>
+  <!-- <span style="font-size: 12px;">2022-?</span> -->
+  </div>
+</div>
+
+
+</section>
+
 
 <section class="container">
   <hr>
@@ -473,11 +488,18 @@
 </div>
 </section>
 
+<section class="container">
+  <hr>
+  <h1 class="col-12 px-0 mb-0">Teaching</h1>
+  <span style="font-size: 14px;"><strong>Graduate Student Instructor </strong>ROB535 Self-driving Cars: Perception and Control, Fall 2021, UMich</span>
+  <span style="font-size: 14px;"><strong>Teaching Assistant </strong>166664 Self-driving Cars: Perception and Control, Spring 2023, CMU</span>
+  <span style="font-size: 14px;"><strong>Teaching Assistant </strong>16385 Computer Vision, Fall 2023, CMU</span>
+</section>
 
 <section class="container">
   <hr>
   <h1 class="col-12 px-0 mb-0">Services</h1>
-<span style="font-size: 14px;">Reviewer: RA-L 2021, 2023; ICRA 2022; KDD 2023</span>
+<span style="font-size: 14px;">Reviewer: RA-L 2021, 2023; ICRA 2022; KDD 2023; WACV 2024</span>
 </section>
 
 <section class="container">

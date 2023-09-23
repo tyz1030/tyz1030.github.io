@@ -2,7 +2,7 @@
 id:             2023-reasexpl
 title:          "Reasoning about the Unseen for Efficient Outdoor Object Navigation"
 authors:
-    - Quangting
+    - Quanting
     - Me
     - Kedi
     - MJR

@@ -5,7 +5,7 @@ authors:
     - WZhi
     - Me
     - MJR
-venue:          Under Review | [Spotlight] 2023 IROS DiffPropRob Workshop 
+venue:          ICRA 2024 | [Spotlight] 2023 IROS DiffPropRob Workshop 
 year:           "2023-09"
 thumbnail:      assets/moreresearch/dia_teach.png
 links:

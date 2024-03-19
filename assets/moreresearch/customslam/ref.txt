@@ -1,0 +1,8 @@
+@misc{xu2024customizable,
+      title={Customizable Perturbation Synthesis for Robust SLAM Benchmarking}, 
+      author={Xiaohao Xu and Tianyi Zhang and Sibo Wang and Xiang Li and Yongqi Chen and Ye Li and Bhiksha Raj and Matthew Johnson-Roberson and Xiaonan Huang},
+      year={2024},
+      eprint={2402.08125},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}

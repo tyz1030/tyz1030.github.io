@@ -1,0 +1,8 @@
+@misc{zhang2024darkgs,
+      title={DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark}, 
+      author={Tianyi Zhang and Kaining Huang and Weiming Zhi and Matthew Johnson-Roberson},
+      year={2024},
+      eprint={2403.10814},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

@@ -6,7 +6,7 @@ authors:
     - Kangni
     - Me
     - MJR
-venue:          Under Review         
+venue:          Under Review | CoRL 2023 LEAP workshop
 year:           "2023-09"
 thumbnail:      assets/moreresearch/orbi_stab.png
 links:

@@ -6,13 +6,14 @@ authors:
     - Kaining
     - WZhi
     - MJR
-venue:          under review
+venue:          IROS 2024 (Oral)
 year:           "2024-03"
 thumbnail:      assets/publications/2024-darkgs/darkgs.png
 links:
     paper:      https://arxiv.org/abs/2403.10814
-    code:       https://github.com/tyz1030/neuralight
+    code:       https://github.com/tyz1030/darkgs
     bibtex:     assets/publications/2023-darkgs/ref.txt
+    website:    https://github.com/tyz1030/neuralight
 
 layout: project
 short_title: Learning Neural Illumination and 3D Gaussians Relighting

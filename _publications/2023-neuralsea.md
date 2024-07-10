@@ -4,7 +4,7 @@ title:          "Beyond NeRF Underwater: Learning Neural Reflectance Fields for 
 authors:
     - Me
     - MJR
-venue:          RA-L 2023, to appear ICRA 2024
+venue:          RA-L 2023, ICRA 2024
 year:           "2023-05"
 thumbnail:      assets/publications/2023-neuralsea/neuralsea.png
 links:

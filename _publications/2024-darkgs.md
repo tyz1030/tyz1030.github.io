@@ -13,7 +13,7 @@ links:
     paper:      https://arxiv.org/abs/2403.10814
     code:       https://github.com/tyz1030/darkgs
     bibtex:     assets/publications/2023-darkgs/ref.txt
-    website:    https://github.com/tyz1030/neuralight
+    website:    https://tyz1030.github.io/proj/darkgs.html
 
 layout: project
 short_title: Learning Neural Illumination and 3D Gaussians Relighting

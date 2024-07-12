@@ -1,0 +1,9 @@
+@misc{sun2024diagrammaticinstructionsspecifyspatial,
+      title={Diagrammatic Instructions to Specify Spatial Objectives and Constraints with Applications to Mobile Base Placement}, 
+      author={Qilin Sun and Weiming Zhi and Tianyi Zhang and Matthew Johnson-Roberson},
+      year={2024},
+      eprint={2403.12465},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2403.12465}, 
+}

@@ -1,5 +1,5 @@
 ---
-id:             2024-darkgs
+id:             2024-2-darkgs
 title:          "DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark"
 authors:
     - Me

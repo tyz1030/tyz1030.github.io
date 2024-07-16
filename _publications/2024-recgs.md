@@ -12,7 +12,9 @@ venue:          in submission
 year:           "2024-07"
 thumbnail:      assets/publications/2024-recgs/recgs.png
 links:
+    paper:      https://arxiv.org/abs/2407.10318
     code:       https://github.com/tyz1030/recgs
+    bibtex:     assets/publications/2024-recgs/ref.txt
     website:    https://tyz1030.github.io/proj/recgs.html
 
 layout: project

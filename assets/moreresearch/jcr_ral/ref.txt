@@ -1,0 +1,9 @@
+@misc{zhi2024unifyingscenerepresentationhandeye,
+      title={Unifying Scene Representation and Hand-Eye Calibration with 3D Foundation Models}, 
+      author={Weiming Zhi and Haozhan Tang and Tianyi Zhang and Matthew Johnson-Roberson},
+      year={2024},
+      eprint={2404.11683},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2404.11683}, 
+}

@@ -17,7 +17,7 @@ links:
     paper:      https://arxiv.org/pdf/2409.18313
 
 layout: project
-short_title: Reasoned Explorer
+short_title: General non-parametric Embodied Memory for Retrieval and Generation
 abstract: "There is no limit to how much a robot might explore and learn, but all of that knowledge needs to be searchable
 and actionable. Within language research, retrieval augmented generation (RAG) has become the workhouse of large-scale
 non-parametric knowledge, however existing techniques do not directly transfer to the embodied domain, which is multimodal,

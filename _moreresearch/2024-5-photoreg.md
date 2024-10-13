@@ -5,7 +5,7 @@ authors:
     - Ziwen Yuan
     - Me
     - MJR
-    - Will
+    - WZhi
 venue:          Under Review         
 year:           "2024-10"
 thumbnail:      assets/moreresearch/photoreg/photoreg.png

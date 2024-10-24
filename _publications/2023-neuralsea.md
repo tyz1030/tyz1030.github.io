@@ -11,6 +11,7 @@ links:
     paper:      https://arxiv.org/abs/2304.03384
     code:       https://github.com/tyz1030/neuralsea
     bibtex:     assets/publications/2023-neuralsea/ref.txt
+    video:      https://youtu.be/ZHgxOvDMiuY
 
 layout: project
 short_title: Learning Neural Reflectance Fields for True Color Correction of Underwater Imagery

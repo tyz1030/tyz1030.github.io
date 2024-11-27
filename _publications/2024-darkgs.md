@@ -6,7 +6,8 @@ authors:
     - Kaining
     - WZhi
     - MJR
-venue:          IROS 2024 (Oral)
+highlight:      Oral Presentation
+venue:          IROS 2024
 year:           "2024-03"
 thumbnail:      assets/publications/2024-darkgs/darkgs.png
 links:

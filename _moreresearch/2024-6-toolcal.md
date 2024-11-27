@@ -6,7 +6,7 @@ authors:
     - Haozhan Tang
     - Me
     - MJR
-venue:          RA-L 2024
+venue:          RA-L 2024, ICRA 2025
 year:           "2024-10"
 thumbnail:      assets/moreresearch/toolcal_ral/toolcal.png
 links:

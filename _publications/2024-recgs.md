@@ -8,7 +8,7 @@ authors:
     - Josh
     - Corina
     - MJR
-venue:          RA-L to appear
+venue:          RA-L 2024, ICRA 2025
 year:           "2024-07"
 thumbnail:      assets/publications/2024-recgs/recgs.png
 links:

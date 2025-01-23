@@ -4,6 +4,8 @@ title:          "RecGS: Removing Water Caustic with Recurrent Gaussian Splatting
 authors:
     - Me
     - WZhi
+    - Braden Meyers
+    - Nelson Durrant
     - Kaining
     - Josh
     - Corina

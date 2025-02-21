@@ -13,7 +13,7 @@ thumbnail:      assets/publications/2024-darkgs/darkgs.png
 links:
     paper:      https://arxiv.org/abs/2403.10814
     code:       https://github.com/tyz1030/darkgs
-    bibtex:     assets/publications/2023-darkgs/ref.txt
+    bibtex:     assets/publications/2024-darkgs/ref.txt
     website:    https://tyz1030.github.io/proj/darkgs.html
 
 layout: project

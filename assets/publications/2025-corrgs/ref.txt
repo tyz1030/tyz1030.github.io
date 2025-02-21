@@ -1,0 +1,5 @@
+@INPROCEEDINGS{xu2025corrgs,
+  author={Xiaohao Xu, Tianyi Zhang, Shibo Zhao, Xiang li, Sibo Wang, Yongqi Chen, Ye Li, Bhiksha Raj, Matthew Johnson-Roberson, Sebastian Scherer, Xiaonan Huang},
+  booktitle={ICLR}, 
+  title={Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video}, 
+  year={2024}}

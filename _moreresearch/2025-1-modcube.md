@@ -10,7 +10,7 @@ authors:
     - Me
     - WZhi
     - Dixia Fan
-venue:          RA-L 2025
+venue:          RA-L 2025; IROS 2025
 year:           "2025-1"
 thumbnail:      assets/moreresearch/modcube/modcube.png
 links:

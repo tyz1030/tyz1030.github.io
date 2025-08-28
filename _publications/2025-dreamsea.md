@@ -6,7 +6,7 @@ authors:
     - WZhi
     - Josh
     - MJR
-# highlight:      Oral Presentation
+highlight:      Oral Presentation
 venue:          FM-Wild@ICLR 2025; Full paper under review
 year:           "2025-03"
 thumbnail:      assets/publications/2025-dreamsea/dreamsea.png
